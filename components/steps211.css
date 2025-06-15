@@ -1,0 +1,242 @@
+.steps211-container1 {
+  width: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.steps211-max-width {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+ 
+.steps211-container2 {
+  height: 1248px;
+  align-items: start;
+}
+ 
+.steps211-section-header {
+  top: 10%;
+  display: flex;
+  position: sticky;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.steps211-text10 {
+  color: rgb(0, 0, 0);
+  font-style: normal;
+  text-align: center;
+  font-family: "Poppins";
+  font-weight: 700;
+}
+ 
+.steps211-text15 {
+  color: #000000;
+  font-family: "Poppins";
+}
+ 
+.steps211-container3 {
+  grid-area: span 1/span 1/span 1/span 1;
+}
+ 
+.steps211-container4 {
+  top: 10%;
+  position: sticky;
+  transform: rotate(-2deg);
+  background-color: var(--dl-color-theme-primary1);
+}
+ 
+.steps211-text16 {
+  fill: var(--dl-color-theme-accent1);
+  color: var(--dl-color-theme-accent1);
+  width: 459px;
+  text-align: center;
+  font-family: "Poppins";
+}
+ 
+.steps211-text17 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  text-align: left;
+  font-family: "Poppins";
+}
+ 
+.steps211-container5 {
+  top: 10%;
+  position: sticky;
+  transform: rotate(2deg);
+  background-color: var(--dl-color-theme-primary1);
+}
+ 
+.steps211-text18 {
+  fill: var(--dl-color-theme-accent1);
+  color: var(--dl-color-theme-accent1);
+  text-align: center;
+  font-family: "Poppins";
+}
+ 
+.steps211-text19 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  text-align: left;
+  font-family: "Poppins";
+}
+ 
+.steps211-container6 {
+  top: 10%;
+  position: sticky;
+  transform: rotate(-2deg);
+  background-color: var(--dl-color-theme-primary1);
+}
+ 
+.steps211-text20 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins";
+}
+ 
+.steps211-text21 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins";
+}
+ 
+.steps211-container7 {
+  top: 10%;
+  position: sticky;
+  transform: rotate(2deg);
+  background-color: var(--dl-color-theme-primary1);
+}
+ 
+.steps211-text22 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins";
+}
+ 
+.steps211-text23 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins";
+}
+ 
+.steps211-fragment1 {
+  display: contents;
+}
+ 
+.steps211-text24 {
+  display: inline-block;
+}
+ 
+.steps211-fragment2 {
+  display: contents;
+}
+ 
+.steps211-text28 {
+  display: inline-block;
+  text-align: left;
+}
+ 
+.steps211-fragment3 {
+  display: contents;
+}
+ 
+.steps211-text29 {
+  display: inline-block;
+}
+ 
+.steps211-fragment4 {
+  display: contents;
+}
+ 
+.steps211-text30 {
+  color: var(--dl-color-theme-accent1);
+  display: inline-block;
+}
+ 
+.steps211-fragment5 {
+  display: contents;
+}
+ 
+.steps211-text41 {
+  color: var(--dl-color-theme-accent1);
+  display: inline-block;
+  text-align: left;
+}
+ 
+.steps211-fragment6 {
+  display: contents;
+}
+ 
+.steps211-text42 {
+  display: inline-block;
+  text-align: left;
+}
+ 
+.steps211-fragment7 {
+  display: contents;
+}
+ 
+.steps211-text43 {
+  display: inline-block;
+}
+ 
+.steps211-fragment8 {
+  display: contents;
+}
+ 
+.steps211-text47 {
+  color: var(--dl-color-theme-accent1);
+  display: inline-block;
+}
+ 
+.steps211root-class-name {
+  width: var(--dl-layout-size-maxwidth);
+  max-width: var(--dl-layout-size-maxwidth);
+  background-color: #ffffff;
+}
+ 
+.steps211root-class-name1 {
+  background-color: #ffffff;
+}
+ 
+.steps211root-class-name2 {
+  width: var(--dl-layout-size-maxwidth);
+  max-width: var(--dl-layout-size-maxwidth);
+  background-color: #ffffff;
+}
+ 
+.steps211root-class-name3 {
+  width: var(--dl-layout-size-maxwidth);
+  max-width: var(--dl-layout-size-maxwidth);
+  background-color: #ffffff;
+}
+ 
+@media(max-width: 991px) {
+  .steps211-max-width {
+    flex-direction: column;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .steps211-section-header {
+    position: static;
+  }
+  .steps211-container4 {
+    width: 100%;
+  }
+  .steps211-container5 {
+    width: 100%;
+  }
+  .steps211-container6 {
+    width: 100%;
+  }
+  .steps211-container7 {
+    width: 100%;
+  }
+}

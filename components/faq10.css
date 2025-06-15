@@ -1,0 +1,374 @@
+.faq10faq8 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.faq10-max-width {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.faq10-container10 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.faq10-section-title {
+  gap: var(--dl-layout-space-twounits);
+  flex: 1;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.faq10-content1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.faq10-text10 {
+  font-family: "Poppins";
+}
+ 
+.faq10-list {
+  gap: var(--dl-layout-space-twounits);
+  flex: 1;
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.faq10-faq1 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.faq10-trigger1 {
+  display: flex;
+  padding: var(--dl-layout-space-unit);
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.faq10-faq1-question {
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Poppins";
+  font-weight: 600;
+}
+ 
+.faq10-icons-container1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.faq10-icon10 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.faq10-icon12 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.faq10-container13 {
+  display: flex;
+  padding: var(--dl-layout-space-unit);
+  align-self: stretch;
+  align-items: flex-start;
+  animation-name: fadeIn;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.faq10-text11 {
+  font-size: 16px;
+  font-family: "Poppins";
+}
+ 
+.faq10-faq2 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.faq10-trigger2 {
+  display: flex;
+  padding: var(--dl-layout-space-unit);
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.faq10-faq2-question1 {
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Poppins";
+  font-weight: 600;
+}
+ 
+.faq10-icons-container2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.faq10-icon14 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.faq10-icon16 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.faq10-container16 {
+  display: flex;
+  padding: var(--dl-layout-space-unit);
+  align-self: stretch;
+  align-items: flex-start;
+  animation-name: fadeIn;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.faq10-text15 {
+  font-family: "Poppins";
+}
+ 
+.faq10-faq3 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.faq10-trigger3 {
+  display: flex;
+  padding: var(--dl-layout-space-unit);
+  align-self: stretch;
+  align-items: center;
+  animation-name: none;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.faq10-faq2-question2 {
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Poppins";
+  font-weight: 600;
+}
+ 
+.faq10-icons-container3 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.faq10-icon18 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.faq10-icon20 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.faq10-container19 {
+  display: flex;
+  padding: var(--dl-layout-space-unit);
+  align-self: stretch;
+  align-items: flex-start;
+  animation-name: fadeIn;
+  flex-direction: row;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.faq10-text19 {
+  font-family: "Poppins";
+}
+ 
+.faq10-faq4 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.faq10-trigger4 {
+  display: flex;
+  padding: var(--dl-layout-space-unit);
+  align-self: stretch;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.faq10-faq2-question3 {
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Poppins";
+  font-weight: 600;
+}
+ 
+.faq10-icons-container4 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.faq10-icon22 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.faq10-icon24 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.faq10-container22 {
+  display: flex;
+  padding: var(--dl-layout-space-unit);
+  align-self: stretch;
+  align-items: flex-start;
+  animation-name: fadeIn;
+  flex-direction: row;
+  padding-bottom: 16px;
+  animation-delay: 0s;
+  justify-content: space-between;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.faq10-content3 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+}
+ 
+.faq10-text24 {
+  align-self: flex-start;
+  font-family: "Poppins";
+}
+ 
+.faq10-fragment1 {
+  display: contents;
+}
+ 
+.faq10-text25 {
+  display: inline-block;
+}
+ 
+.faq10-fragment2 {
+  display: contents;
+}
+ 
+.faq10-text26 {
+  display: inline-block;
+}
+ 
+.faq10-fragment3 {
+  display: contents;
+}
+ 
+.faq10-text27 {
+  display: inline-block;
+}
+ 
+.faq10-fragment4 {
+  display: contents;
+}
+ 
+.faq10-text28 {
+  display: inline-block;
+}
+ 
+.faq10-fragment5 {
+  display: contents;
+}
+ 
+.faq10-text29 {
+  display: inline-block;
+}
+ 
+.faq10-fragment6 {
+  display: contents;
+}
+ 
+.faq10-text30 {
+  display: inline-block;
+}
+ 
+@media(max-width: 479px) {
+  .faq10-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+}

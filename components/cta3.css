@@ -1,0 +1,131 @@
+.cta3-container1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: var(--dl-layout-space-halfunit);
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.cta3-max-width {
+  gap: 80px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  max-width: var(--dl-layout-size-maxwidth);
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.cta3-container2 {
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.cta3-placeholder-image {
+  height: 100%;
+  flex-grow: 1;
+  max-height: 400px;
+}
+ 
+.cta3-column {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.cta3-text1 {
+  animation-name: none;
+  animation-delay: 0s;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.cta3-text2 {
+  margin-bottom: var(--dl-layout-space-unit);
+}
+ 
+.cta3-actions {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.cta3-link1 {
+  box-shadow: 2px 2px 10px 1px #bd1cb7;
+  border-color: #000000;
+  border-radius: 0px;
+  animation-name: none;
+  animation-delay: 0s;
+  text-decoration: none;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.cta3-link2 {
+  border-color: #000000;
+  border-radius: 0px;
+  text-decoration: none;
+}
+ 
+.cta3-fragment1 {
+  display: contents;
+}
+ 
+.cta3-text5 {
+  color: var(--dl-color-theme-neutral-dark);
+  display: inline-block;
+  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
+  font-family: "Montserrat";
+}
+ 
+.cta3-fragment2 {
+  display: contents;
+}
+ 
+.cta3-text6 {
+  display: inline-block;
+}
+ 
+.cta3-fragment3 {
+  display: contents;
+}
+ 
+.cta3-text7 {
+  display: inline-block;
+}
+ 
+.cta3-fragment4 {
+  display: contents;
+}
+ 
+.cta3-text8 {
+  display: inline-block;
+}
+ 
+.cta3root-class-name1 {
+  padding-top: var(--dl-layout-space-fiveunits);
+  padding-left: var(--dl-layout-space-oneandhalfunits);
+  padding-right: var(--dl-layout-space-oneandhalfunits);
+  padding-bottom: var(--dl-layout-space-fiveunits);
+}
+ 
+@media(max-width: 991px) {
+  .cta3-container2 {
+    flex-direction: column;
+  }
+  .cta3-placeholder-image {
+    width: 100%;
+  }
+}

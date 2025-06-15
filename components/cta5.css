@@ -1,0 +1,111 @@
+.cta5-container1 {
+  display: flex;
+  position: relative;
+  background-color: #D9D9D9;
+}
+ 
+.cta5-max-width {
+  gap: var(--dl-layout-space-fiveunits);
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  max-width: var(--dl-layout-size-maxwidth);
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.cta5-container2 {
+  align-self: stretch;
+  align-items: center;
+}
+ 
+.cta5-column {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.cta5-container3 {
+  gap: var(--dl-layout-space-unit);
+  flex: 1;
+  width: auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.cta5-row {
+  align-items: stretch;
+  flex-direction: row;
+}
+ 
+.cta5-container4 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  justify-content: center;
+}
+ 
+.cta5-textinput {
+  width: 100%;
+}
+ 
+.cta5-button {
+  width: 100%;
+}
+ 
+.cta5-fragment1 {
+  display: contents;
+}
+ 
+.cta5-text4 {
+  display: inline-block;
+}
+ 
+.cta5-fragment2 {
+  display: contents;
+}
+ 
+.cta5-text5 {
+  display: inline-block;
+}
+ 
+.cta5-fragment3 {
+  display: contents;
+}
+ 
+.cta5-text6 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .cta5-container2 {
+    flex-direction: column;
+  }
+  .cta5-container3 {
+    width: auto;
+    align-self: flex-start;
+    align-items: flex-start;
+  }
+  .cta5-row {
+    width: 100%;
+    position: relative;
+    justify-content: flex-start;
+  }
+  .cta5-container4 {
+    align-self: flex-end;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .cta5-container4 {
+    flex-direction: column;
+  }
+}

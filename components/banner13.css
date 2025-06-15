@@ -1,0 +1,26 @@
+.banner13-container1 {
+  width: 4380px;
+  height: 548px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  background-size: cover;
+  background-image: url("public/external/front%20cover-4400w-4400w.png");
+}
+ 
+.banner13-max-width {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner13-container2 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner13root-class-name1 {
+  width: 100%;
+}

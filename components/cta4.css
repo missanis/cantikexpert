@@ -1,0 +1,10 @@
+.cta4-container {
+  width: 100%;
+  height: 386px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("https://images.unsplash.com/photo-1524005552021-ae918bff36ae?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDEzfHxIT1QlMjBQSU5LfGVufDB8fHx8MTc0ODAyNDQwMnww&ixlib=rb-4.1.0&w=1500");
+}

@@ -1,0 +1,8 @@
+.banner12-container {
+  gap: var(--dl-layout-space-unit);
+  height: 174px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  background-color: #000000;
+}

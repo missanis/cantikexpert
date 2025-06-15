@@ -1,0 +1,52 @@
+.banner18-container1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+ 
+.banner18-max-width {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner18-container2 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner18-title {
+  text-align: center;
+}
+ 
+.banner18-text1 {
+  text-align: center;
+}
+ 
+.banner18-fragment1 {
+  display: contents;
+}
+ 
+.banner18-text3 {
+  display: inline-block;
+}
+ 
+.banner18-fragment2 {
+  display: contents;
+}
+ 
+.banner18-text4 {
+  display: inline-block;
+}
+ 
+.banner18-fragment3 {
+  display: contents;
+}
+ 
+.banner18-text5 {
+  display: inline-block;
+}
